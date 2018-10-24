@@ -1,6 +1,8 @@
+def looping
+  loop do
+    puts "Wingardium Leviosa!"
+  end
 
-def levitation_quiz
-	#your code here
 end
 
-
+looping
